@@ -1,0 +1,14 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.apm{
+    color: rgb(89, 43, 226);
+}
+.apm1{
+    color: blue;
+    border: 5px solid red;
+}
